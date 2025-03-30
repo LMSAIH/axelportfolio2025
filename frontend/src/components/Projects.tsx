@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { FiExternalLink, FiGithub, FiCode, FiStar, FiGitBranch, FiRefreshCw, FiChevronLeft, FiChevronRight, FiChevronUp, FiChevronDown } from 'react-icons/fi';
+import { FiExternalLink, FiGithub, FiCode, FiStar, FiGitBranch, FiRefreshCw, FiChevronLeft, FiChevronRight } from 'react-icons/fi';
 import ExpandableDescription from './ExpandableDescription';
 interface Repository {
     id: number;
