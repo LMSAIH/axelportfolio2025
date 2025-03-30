@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { FiMenu, FiX, FiCode } from 'react-icons/fi';
+import { FiMenu, FiX } from 'react-icons/fi';
 
 interface NavItem {
     name: string;
