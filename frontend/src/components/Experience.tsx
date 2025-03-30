@@ -60,7 +60,7 @@ const Experience: React.FC = () => {
             company: "ResultsCX",
             location: "Remote",
             period: "Jun 2023 - Dec 2023",
-            description: "Developing and maintaining websites for various clients, focusing on responsive design and user experience. Collaborating with clients to understand their needs and deliver high-quality web solutions.",
+            description: "Provided exceptional customer support in a fast-paced, remote call center environment. Delivered clear and effective solutions by managing complex drivers and communicating efficiently with customers. Consistently maintained high-quality standards by adhering to strict protocols and resolving issues with a 100% first-call resolution rate. Demonstrated strong time management and problem-solving skills, excelling in high-stress situations while ensuring customer satisfaction.",
             achievements: [
                 "Top performer with a 100% satisfaction rate across 600+ calls, consistently exceeding performance targets and providing exemplary customer support",
                 "Managed complex drivers and used strong communication skills to deliver clear and effective customer solutions, which contributed to a 100% first-call resolution rate",
