@@ -8,8 +8,7 @@ import Footer from '../components/Footer';
 
 const Home: React.FC = () => {
     return (
-
-        <div className="snap-y snap-mandatory h-screen w-full overflow-y-auto overflow-x-hidden bg-neutral-950 text-white scroll-smooth">
+        <div className="md:snap-y md:snap-mandatory h-screen w-full overflow-y-auto overflow-x-hidden bg-neutral-950 text-white scroll-smooth">
             <Navbar />
             <Introduction />
             <Projects />
