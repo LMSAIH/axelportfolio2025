@@ -43,19 +43,6 @@ const Experience: React.FC = () => {
             technologies: ["JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Mailchimp", "Google Workspace", "Discord"]
         },
         {
-            title: "Freelance Web Developer",
-            company: "Self Employed",
-            location: "Remote",
-            period: "Jun 2024 - Present",
-            description: "Developing and maintaining websites for various clients, focusing on responsive design and user experience. Collaborating with clients to understand their needs and deliver high-quality web solutions.",
-            achievements: [
-                "Gathered requirements from clients to understand their needs, tailored solutions, and delivered results, leading to four deployed products highly regarded by clients and users",
-                "Engineered custom API integrations and implemented cloud-based solutions, achieving 3,000+ daily views in different projects while ensuring strict security compliance",
-                "Contributed to open-source projects with over 1,000 submissions this year across 18+ repositories, serving as both a maintainer and team member for impactful initiatives and personal projects"
-            ],
-            technologies: ["HTML5", "CSS3", "JavaScript", "TypeScript", "TailwindCSS", "Python", "FastAPI", "Supabase", "Firebase", "ExpressJS", "NodeJS", "MongoDB", " React", "Next.js", "Vercel", "GitHub", "Docker"]
-        },
-        {
             title: "Call Center Associate",
             company: "ResultsCX",
             location: "Remote",
