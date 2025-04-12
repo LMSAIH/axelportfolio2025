@@ -33,7 +33,7 @@ const KnowMe: React.FC = () => {
         { icon: <FiCoffee />, name: "Coffee", description: "I love the quiet environments, coffee shops which are nice and cozy are of special interest to me, let me know about your favourites!" },
         { icon: <FiMusic />, name: "Music", description: "Is there anything better than some Molchat Doma after a long day?" },
         { icon: <FiBookOpen />, name: "Reading", description: "I am particularly keen to Light Novels, recommendations would be appreciated" },
-        { icon: <FiGlobe />, name: "Travel", description: "Traveling brought me to Canada, and to many other places, it is something close to my hearth" },
+        { icon: <FiGlobe />, name: "Travel", description: "Traveling brought me to Canada, and to many other places, it is something close to my heart" },
         { icon: <FaWalking />, name: "Walking", description: "As I get older, walking around the city feels more like a need rather than a hobby, but you didn't read that from me" }
     ];
 
