@@ -43,6 +43,7 @@ const KnowMe: React.FC = () => {
             className="snap-start min-h-screen w-full flex flex-col justify-center px-6 md:px-16 lg:px-24 py-20 relative"
             style={{
                 backgroundImage: `radial-gradient(circle at 50% 50%, rgba(59, 34, 140, 0.1) 0%, transparent 80%)`,
+                
             }}
         >
 
