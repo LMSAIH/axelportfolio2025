@@ -16,6 +16,17 @@ const Experience: React.FC = () => {
     // Sample work experience data - replace with your own
     const experiences: WorkExperience[] = [
         {
+            title: "Research Assistant | Web Developer",
+            company: "Langara College Applied Research Centre",
+            location: "Vancouver, BC",
+            period: "Jan 2025 - Present",
+            description: "Supporting faculty-led research projects by developing web applications. Collaborating with multidisciplinary research team to design and implement digital solutions that enhance data collection, analysis, and presentation of research findings.",
+            achievements: [
+
+            ],
+            technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS"]
+        },
+        {
             title: "Software Developer",
             company: "Langara Computer Science Club",
             location: "Vancouver, BC",
@@ -58,8 +69,8 @@ const Experience: React.FC = () => {
     ];
 
     // Animation variants
-    
-    
+
+
     const containerVariants = {
         hidden: { opacity: 0 },
         visible: {
