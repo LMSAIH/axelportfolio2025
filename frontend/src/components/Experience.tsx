@@ -19,12 +19,21 @@ const Experience: React.FC = () => {
             title: "Research Assistant | Web Developer",
             company: "Langara College Applied Research Centre",
             location: "Vancouver, BC",
-            period: "Jan 2025 - Present",
+            period: "May 2025 - Present",
             description: "Supporting faculty-led research projects by developing web applications. Collaborating with multidisciplinary research team to design and implement digital solutions that enhance data collection, analysis, and presentation of research findings.",
             achievements: [
 
             ],
             technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS"]
+        },
+        {
+            title: "Engagement Kiosk Assistant",
+            company: "Langara College",
+            location: "Vancouver, BC",
+            period: "May 2025 - Present",
+            description: "Managing interactive information kiosks across campus that provide wayfinding, event details, and campus resources to students and visitors. Responsible for maintaining kiosk hardware and software, creating engaging digital content, and collecting usage analytics to improve the student experience.",
+            achievements: [],
+            technologies: []
         },
         {
             title: "Software Developer",
