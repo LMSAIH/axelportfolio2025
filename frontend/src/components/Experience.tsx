@@ -24,7 +24,7 @@ const Experience: React.FC = () => {
             achievements: [
 
             ],
-            technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS"]
+            technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS", 'Webflow']
         },
         {
             title: "Engagement Kiosk Assistant",
@@ -33,7 +33,7 @@ const Experience: React.FC = () => {
             period: "May 2025 - Present",
             description: "Managing interactive information kiosks across campus that provide wayfinding, event details, and campus resources to students and visitors. Responsible for maintaining kiosk hardware and software, creating engaging digital content, and collecting usage analytics to improve the student experience.",
             achievements: [],
-            technologies: []
+            technologies: ['Excel, Word, Workday, Google Workspace', 'PebblePad']
         },
         {
             title: "Software Developer",
