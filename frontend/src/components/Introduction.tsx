@@ -18,6 +18,7 @@ const Introduction: React.FC = () => {
             <div className="absolute top-40 -left-40 w-96 h-96 bg-indigo-600/20 rounded-full blur-3xl"></div>
             <div className="absolute -bottom-40 right-20 w-80 h-80 bg-violet-600/20 rounded-full blur-3xl"></div>
 
+
             {/* Subtle grain texture */}
             <div
                 className="absolute inset-0 opacity-[0.15] pointer-events-none"
