@@ -16,6 +16,17 @@ const Experience: React.FC = () => {
     
     // Sample work experience data - replace with your own
     const experiences: WorkExperience[] = [
+          {
+            title: "Advisory Council Member",
+            company: "United Nations Association in Canada - Vancouver",
+            location: "Vancouver, BC",
+            period: "May 2025 - Present",
+            description: "",
+             achievements: [
+
+            ],
+            technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS", "ExpressJS", "Supabase"]
+        },
         {
             title: "Research Assistant | Web Developer",
             company: "Langara College Applied Research Centre",
