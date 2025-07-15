@@ -12,9 +12,9 @@ interface WorkExperience {
     technologies: string[];
 }
 
+
 const Experience: React.FC = () => {
 
-    // Sample work experience data - replace with your own
     const experiences: WorkExperience[] = [
           {
             title: "Advisory Council Member",
