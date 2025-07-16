@@ -14,7 +14,6 @@ interface WorkExperience {
 
 
 const Experience: React.FC = () => {
-
     const experiences: WorkExperience[] = [
           {
             title: "Advisory Council Member",
