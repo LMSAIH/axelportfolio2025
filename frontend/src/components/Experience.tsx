@@ -15,6 +15,7 @@ interface WorkExperience {
 
 const Experience: React.FC = () => {
     const experiences: WorkExperience[] = [
+        
           {
             title: "Advisory Council Member",
             company: "United Nations Association in Canada - Vancouver",
