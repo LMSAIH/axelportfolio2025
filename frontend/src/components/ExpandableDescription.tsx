@@ -10,6 +10,7 @@ const ExpandableDescription: React.FC<{ description: string }> = ({ description 
           {description}
         </p>
         
+        
         {/* Only show toggle button if description is long enough */}
         {description.length > 100 && (
           <button 
