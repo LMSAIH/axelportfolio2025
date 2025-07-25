@@ -18,6 +18,8 @@ const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();
 
     return (
+
+        
         <footer
             id="contact"
             className="snap-start min-h-screen w-full flex flex-col justify-center px-6 md:px-16 lg:px-24 py-16 relative bg-neutral-900/30 backdrop-blur-sm"
