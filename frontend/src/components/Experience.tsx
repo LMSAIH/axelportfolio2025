@@ -15,14 +15,14 @@ interface WorkExperience {
 
 const Experience: React.FC = () => {
     const experiences: WorkExperience[] = [
-        
-          {
+
+        {
             title: "Advisory Council Member",
             company: "United Nations Association in Canada - Vancouver",
             location: "Vancouver, BC",
             period: "May 2025 - Present",
             description: "",
-             achievements: [
+            achievements: [
 
             ],
             technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS", "ExpressJS", "Supabase"]
@@ -34,7 +34,7 @@ const Experience: React.FC = () => {
             period: "May 2025 - Present",
             description: "Supporting faculty-led research projects by developing web applications. Collaborating with multidisciplinary research team to design and implement digital solutions that enhance data collection, analysis, and presentation of research findings.",
             achievements: [
-
+                "Reduced website maintenance cost by 100% by migrating the website to a self-hosted solution, eliminating the need for third-party hosting services",
             ],
             technologies: ["React", "TypeScript", "AWS", "Docker", "Tailwind CSS", 'Webflow']
         },
