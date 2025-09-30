@@ -75,6 +75,7 @@ const Experience: React.FC = () => {
             technologies: ["JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Mailchimp", "Google Workspace", "Discord"]
         },
         {
+            
             title: "Call Center Associate",
             company: "ResultsCX",
             location: "Remote",
